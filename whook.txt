@@ -18,6 +18,8 @@ starthook MF_WarehouseHeist
 
 149.56.243.180 - godhatasame3
 
+185.249.196.167 - Stoner Jay
+
 
 
 endhook MF_WarehouseHeist
@@ -143,6 +145,8 @@ starthook MF_PawnShop
 
 216.144.252.114 - mybra
 
+185.249.196.167 - Stoner Jay
+
 	
 
 endhook MF_PawnShop
@@ -183,6 +187,8 @@ starthook mf_tuner
 
 139.99.125.2 - Meh96
 
+185.249.196.167 - Stoner Jay
+
 
 
 endhook mf_tuner
@@ -204,6 +210,8 @@ starthook MF_DopePlant
 54.36.75.114 - Evolution
 
 139.99.125.2 - Meh96
+
+185.249.196.167 - Stoner Jay
 
 
 
@@ -479,6 +487,8 @@ starthook MF_LockPicking
 
 139.99.125.2 - Meh96
 
+185.249.196.167 - Stoner Jay
+
 
 
 endhook MF_LockPicking
@@ -537,6 +547,8 @@ starthook MF_DrugSales
 54.36.75.114 - Evolution
 
 139.99.125.2 - Meh96
+
+185.249.196.167 - Stoner Jay
 
 
 
