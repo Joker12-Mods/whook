@@ -147,6 +147,8 @@ starthook MF_PawnShop
 
 185.249.196.167 - Stoner Jay
 
+185.249.196.5 - Galaxy
+
 	
 
 endhook MF_PawnShop
@@ -312,6 +314,8 @@ starthook MF_MobileMeth
 54.36.75.114 - Evolution
 
 139.99.125.2 - Meh96
+
+185.249.196.5 - Galaxy
 
 
 
@@ -549,6 +553,8 @@ starthook MF_DrugSales
 139.99.125.2 - Meh96
 
 185.249.196.167 - Stoner Jay
+
+185.249.196.5 - Galaxy
 
 
 
