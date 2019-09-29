@@ -8,16 +8,6 @@ starthook MF_WarehouseHeist
 
 195.201.242.39 - Joker
 
-54.36.75.114 - Evolution
-
-139.99.125.2 - Meh96
-
-192.0.129.76 - godhatasame
-
-212.162.151.95 - godhatasame2
-
-149.56.243.180 - godhatasame3
-
 185.249.196.167 - Stoner Jay
 
 134.255.252.211 - Probachenko
