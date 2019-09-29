@@ -14,6 +14,8 @@ starthook MF_WarehouseHeist
 
 185.239.239.45:30120 - Probachenko2
 
+185.223.28.170 - test
+
 
 
 endhook MF_WarehouseHeist
