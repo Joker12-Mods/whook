@@ -10,9 +10,9 @@ starthook MF_WarehouseHeist
 
 185.249.196.167 - Stoner Jay
 
-134.255.252.211 - Probachenko
+134.255.252.211:30120 - Probachenko
 
-185.239.239.45 - Probachenko2
+185.239.239.45:30120 - Probachenko2
 
 
 
