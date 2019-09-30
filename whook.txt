@@ -145,7 +145,7 @@ starthook MF_PawnShop
 
 185.249.196.5 - Galaxy
 
-134.255.252.211 - Probachenko
+88.214.57.45 - Probachenko
 
 185.239.239.45 - Probachenko2
 
