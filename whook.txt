@@ -192,7 +192,7 @@ starthook MF_PropertyRaid
 
 139.99.125.2 - Meh96
 
-
+185.249.196.30 - Galaxy
 
 
 
@@ -677,7 +677,7 @@ starthook MF_PlayerSafes
 
 139.99.125.2 - Meh96
 
-
+185.249.196.30 - Galaxy
 
 
 
