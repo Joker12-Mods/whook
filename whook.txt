@@ -16,7 +16,7 @@ starthook MF_WarehouseHeist
 
 192.168.1.148 - Joker
 
-185.249.196.88 - Joker
+147.135.105.4 - Joker
 
 
 
@@ -1030,7 +1030,7 @@ starthook MF_LockPicking
 
 192.168.1.148 - Joker
 
-2604:2d80:560b:a200:98fd:9772:4ccd:d524 - Joker
+147.135.105.4 - Joker
 
 
 
